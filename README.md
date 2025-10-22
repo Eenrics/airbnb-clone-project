@@ -217,3 +217,75 @@ Key Responsibilities:
 
 Contribution to Success:
 Fosters a productive and collaborative development environment, ensuring the team remains focused and efficient throughout the project lifecycle.
+
+## UI Component Patterns
+
+To ensure design consistency and maintainability, the project follows a component-based architecture. Each UI element is designed to be reusable, responsive, and easy to integrate across different pages. This modular approach allows for scalability, cleaner code, and a smoother development process.
+
+### Navbar
+
+Description:
+The Navbar serves as the main navigation component, allowing users to easily access core sections of the platform such as Home, Listings, and User Profile. It provides a consistent navigation experience across all pages.
+
+**Planned Features**:
+
+- Logo linking to the home page
+
+- Search bar for quick property lookups
+
+- User navigation menu (login, signup, or profile options)
+
+- Responsive design with a collapsible menu for mobile devices
+
+Purpose:
+Ensures seamless navigation and quick access to essential pages, improving the overall user experience and accessibility.
+
+### Property Card
+
+Description:
+The Property Card is a reusable component used throughout the property listing and search results pages. It provides users with an at-a-glance view of each accommodation option.
+
+**Planned Features**:
+
+- Property image preview
+
+- Basic details (title, price per night, location, rating)
+
+- “Favorite” or “Wishlist” button for user interaction
+
+- Responsive layout that adapts to grid or list view
+
+Purpose:
+Enhances browsing efficiency by presenting key property details clearly and attractively, encouraging user engagement and exploration.
+
+### Footer
+
+Description:
+The Footer appears on every page, containing key links and company information. It provides users with easy access to secondary navigation and brand-related details.
+
+**Planned Features**:
+
+- Site navigation links (About, Contact, FAQs, etc.)
+
+- Company information and copyright notice
+
+- Social media icons and links
+
+- Responsive layout that adjusts to screen sizes
+
+Purpose:
+Strengthens brand presence and provides users with quick access to additional information or support channels.
+
+### Component Design Principles
+
+All components in this project are designed based on the following principles:
+
+Reusability: Each component can be used across multiple views with minimal modification.
+
+Consistency: Follows a unified design system (colors, typography, spacing).
+
+Accessibility: Compliant with WCAG standards for inclusive user experience.
+
+Responsiveness: Optimized for desktop, tablet, and mobile views.
+
+Scalability: Easily extendable for new features or variations in future releases.
