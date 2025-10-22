@@ -49,3 +49,47 @@ Responsive design — ensure optimal usability across desktops, tablets, and sma
 Accessibility compliance (WCAG) — make the platform usable for all users, including those with disabilities.
 
 A polished, consistent, and user-centered design enhances engagement and builds trust, turning visitors into loyal users.
+
+### Color Styles
+
+The following color palette ensures visual consistency and aligns with the AirBnB brand-inspired design:
+
+- Primary Color: #FF5A5F – used for buttons, highlights, and primary actions.
+
+- Secondary Color: #008489 – used for accents and secondary interactive elements.
+
+- Background Color: #FFFFFF – used for the main page background.
+
+- Text Color: #222222 – used for headings and main text.
+
+- Secondary Text Color: #717171 – used for descriptions, labels, and secondary content.
+
+### Typography
+
+Typography helps create a consistent visual hierarchy and enhances readability across devices.
+
+- Primary Font Family: Circular
+
+- Headings: Circular Bold (700), 24px–32px
+
+- Body Text: Circular Medium (500), 16px
+
+- Secondary Text: Circular Book (400), 14px
+
+### Importance of Identifying Design Properties in a Mockup
+
+Identifying design properties—such as colors, typography, spacing, and component layout—from a mockup design is a crucial step in maintaining visual and functional consistency throughout the application.
+
+Key benefits include:
+
+- Consistency: Ensures that every page and component follows the same design system.
+
+- Efficiency: Speeds up development by providing clear visual references and reusable patterns.
+
+- Collaboration: Helps designers and developers communicate effectively with a shared understanding of design specifications.
+
+- Scalability: Makes it easier to extend or update the design without breaking visual harmony.
+
+- Accessibility & Branding: Maintains brand identity while ensuring readability and usability for all users.
+
+By clearly documenting these properties, the team ensures that the end product closely matches the original vision set by the designers in Figma.
