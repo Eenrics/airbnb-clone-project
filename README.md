@@ -93,3 +93,127 @@ Key benefits include:
 - Accessibility & Branding: Maintains brand identity while ensuring readability and usability for all users.
 
 By clearly documenting these properties, the team ensures that the end product closely matches the original vision set by the designers in Figma.
+
+## Project Roles and Responsibilities
+
+Building a full-stack accommodation booking platform requires a well-coordinated team with clearly defined roles. Each role contributes unique skills and expertise to ensure the success of the project — from planning and design to development, testing, and deployment.
+
+### Project Manager
+
+Key Responsibilities:
+
+- Oversees the overall project timeline and ensures all milestones are met.
+
+- Coordinates between teams (design, development, QA, and DevOps).
+
+- Monitors progress, manages risks, and ensures quality standards are maintained.
+
+- Facilitates communication and ensures that deliverables align with project goals.
+
+Contribution to Success:
+Ensures that the project stays on schedule, within scope, and maintains high quality through effective planning and communication.
+
+### Frontend Developers
+
+Key Responsibilities:
+
+- Implement responsive UI components using React (or a similar framework).
+
+- Integrate APIs with the frontend to display dynamic data.
+
+- Maintain a clean, modular, and reusable component architecture.
+
+- Ensure accessibility, responsiveness, and cross-browser compatibility.
+
+Contribution to Success:
+Deliver a seamless, user-friendly interface that provides an intuitive booking experience and reflects the design goals of the project.
+
+### Backend Developers
+
+Key Responsibilities:
+
+- Design and build RESTful APIs to support frontend functionality.
+
+- Implement authentication, authorization, and secure data handling.
+
+- Manage the database structure and handle data relationships.
+
+- Ensure server performance, scalability, and reliability.
+
+Contribution to Success:
+Provide the business logic and data infrastructure that power the platform, ensuring smooth interaction between the frontend and backend.
+
+### Designers
+
+Key Responsibilities:
+
+- Create the visual design and user experience in Figma.
+
+- Define color schemes, typography, and layout guidelines.
+
+- Maintain design consistency across all pages and components.
+
+- Conduct usability tests to improve the overall experience.
+
+Contribution to Success:
+Shape the user’s journey through thoughtful design, ensuring that the interface is both visually appealing and easy to use.
+
+### QA/Testers
+
+Key Responsibilities:
+
+- Write and execute unit, integration, and end-to-end tests.
+
+- Identify, report, and track bugs throughout the development cycle.
+
+- Ensure all features meet acceptance criteria and function as expected.
+
+- Test across devices and browsers to ensure consistent behavior.
+
+Contribution to Success:
+Guarantee a high-quality, stable product by preventing regressions and ensuring reliability before deployment.
+
+### DevOps Engineers
+
+Key Responsibilities:
+
+- Set up and manage CI/CD pipelines for automated testing and deployment.
+
+- Configure and maintain cloud infrastructure (servers, containers, databases).
+
+- Monitor application performance, security, and uptime.
+
+- Ensure smooth and repeatable deployment processes.
+
+Contribution to Success:
+Enable fast, reliable, and scalable deployment, reducing downtime and streamlining the development workflow.
+
+### Product Owner
+
+Key Responsibilities:
+
+- Define project requirements and prioritize features based on user needs.
+
+- Translate business goals into actionable user stories.
+
+- Ensure the final product aligns with stakeholder expectations.
+
+- Manage the product backlog and guide the development focus.
+
+Contribution to Success:
+Keep the project aligned with business objectives and ensure every feature adds real value to users and stakeholders.
+
+### Scrum Master
+
+Key Responsibilities:
+
+- Facilitate Agile processes including sprint planning, stand-ups, and retrospectives.
+
+- Remove blockers that impede the team’s progress.
+
+- Encourage collaboration and continuous improvement.
+
+- Track team performance and promote adherence to Agile principles.
+
+Contribution to Success:
+Fosters a productive and collaborative development environment, ensuring the team remains focused and efficient throughout the project lifecycle.
